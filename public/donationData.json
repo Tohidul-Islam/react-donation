@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "picture": "https://img.freepik.com/free-photo/smiling-students-with-backpacks_1098-1220.jpg?size=626&ext=jpg&uid=R87224536&ga=GA1.1.1825044771.1706894646&semt=sph",
+        "title": "Education for Every Child",
+        "category": "Education",
+        "color_for_category_bg": "#ffc3c5",
+        "color_for_card_bg": "#ffe3e4",
+        "color_for_text_and_button_bg": "#ff444a",
+        "description": "Support our mission to provide quality education to underprivileged children. Your donation will help us build schools, provide learning materials, and empower young minds for a brighter future. Education is the key to breaking the cycle of poverty, and every contribution brings us one step closer to a world where every child has access to knowledge and opportunities. Join us in making a lasting impact on the lives of these children, fostering a love for learning and opening doors to a better tomorrow. Together, we can build a foundation for success and create positive change.",
+        "price": 50.00
+    },
+    {
+        "id": 2,
+        "picture": "https://img.freepik.com/free-photo/volunteers-with-gloves-handing-boxes-with-food-donation_23-2148733764.jpg?size=626&ext=jpg&uid=R87224536&ga=GA1.1.1825044771.1706894646&semt=ais",
+        "title": "Feeding the Hungry",
+        "category": "Food",
+        "color_for_category_bg": "#d4ecc1",
+        "color_for_card_bg": "#ebf6e2",
+        "color_for_text_and_button_bg": "#79c23f",
+        "description": "Make a difference in the fight against hunger. Your generous donation supports our efforts to provide nutritious meals to those facing food insecurity. We work tirelessly to distribute food to individuals and families in need, ensuring that no one goes to bed hungry. Your contribution helps us organize food drives, establish community gardens, and collaborate with local partners to create sustainable solutions. By giving the gift of nourishment, you're not just filling stomachs; you're providing hope and strength to those struggling in difficult times. Join us in the battle against hunger and help create a world where everyone has access to wholesome meals.",
+        "price": 30.00
+    },
+    {
+        "id": 3,
+        "picture": "https://img.freepik.com/free-photo/group-different-people-volunteering-foodbank-poor-people_23-2149012211.jpg?size=626&ext=jpg&uid=R87224536&ga=GA1.1.1825044771.1706894646&semt=ais",
+        "title": "Communities Medical Relief",
+        "category": "Health",
+        "color_for_category_bg": "#aec8ff",
+        "color_for_card_bg": "#d9e5ff",
+        "color_for_text_and_button_bg": "#0052ff",
+        "description": "Support our medical relief efforts to bring healthcare to vulnerable communities. Your donation will help us provide essential medical supplies, conduct health camps, and offer preventive care to those in need. In regions with limited access to healthcare, your support can make a life-saving difference. Together, we can improve health outcomes, reduce the impact of preventable diseases, and create a healthier future for all. Your contribution ensures that everyone, regardless of their circumstances, has the right to access basic healthcare services. Join us in promoting well-being and making a lasting impact on the health of communities in need.",
+        "price": 40.00
+    },
+    {
+        "id": 4,
+        "picture": "https://img.freepik.com/free-photo/close-up-people-holding-apples-bag_23-2149182018.jpg?size=626&ext=jpg&uid=R87224536&ga=GA1.1.1825044771.1706894646&semt=ais",
+        "title": "Clean Water Initiative",
+        "category": "Food",
+        "color_for_category_bg": "#d4ecc1",
+        "color_for_card_bg": "#ebf6e2",
+        "color_for_text_and_button_bg": "#79c23f",
+        "description": "Join us in providing clean and safe drinking water to communities in need. Your donation will support the construction of wells, water purification projects, and hygiene education programs. Access to clean water is a basic human right, yet many lack this essential resource. By contributing to our initiative, you're making a direct impact on the health and well-being of individuals and families. Let's work together to eliminate waterborne diseases, improve sanitation, and create a sustainable water source for communities around the world. Your support can transform lives and bring the gift of clean water to those who need it most.",
+        "price": 35.00
+    },
+    {
+        "id": 5,
+        "picture": "https://img.freepik.com/free-photo/volunteer-holding-clothes-donation-box_1170-1807.jpg?size=626&ext=jpg&uid=R87224536&ga=GA1.1.1825044771.1706894646&semt=ais",
+        "title": "Empowering Women Heath",
+        "category": "Health",
+        "color_for_category_bg": "#aec8ff",
+        "color_for_card_bg": "#d9e5ff",
+        "color_for_text_and_button_bg": "#0052ff",
+        "description": "Support our microfinance program that empowers women to start and grow their businesses. Your donation provides small loans, financial education, and mentorship to women entrepreneurs, enabling them to lift themselves and their families out of poverty. By investing in women, you're fostering economic independence and creating a ripple effect of positive change in communities. Women are powerful agents of change, and your contribution can help break down barriers, promote equality, and build a more inclusive and resilient society. Join us in supporting women's entrepreneurship and making a lasting impact on the lives of individuals and their communities.",
+        "price": 25.00
+    },
+    {
+        "id": 6,
+        "picture": "https://img.freepik.com/free-photo/medium-shot-people-with-food-donations_23-2149182009.jpg?size=626&ext=jpg&uid=R87224536&ga=GA1.1.1825044771.1706894646&semt=ais",
+        "title": "Shelter for the Homeless",
+        "category": "Food",
+        "color_for_category_bg": "#d4ecc1",
+        "color_for_card_bg": "#ebf6e2",
+        "color_for_text_and_button_bg": "#79c23f",
+        "description": "Help us provide shelter and warmth to those experiencing homelessness. Your donation supports the construction of shelters, distribution of blankets and sleeping bags, and outreach programs to connect individuals with housing resources. Homelessness is a complex issue, and every contribution brings us closer to creating a society where everyone has a place to call home. Your support provides a lifeline to those facing the harsh realities of life on the streets, offering hope, dignity, and a pathway to stability. Join us in the effort to end homelessness and create a world where everyone has a safe and secure place to live.",
+        "price": 45.00
+    },
+    {
+        "id": 7,
+        "picture": "https://img.freepik.com/free-photo/brainstorm-meeting_1098-15871.jpg?size=626&ext=jpg&uid=R87224536&ga=GA1.1.1825044771.1706894646&semt=sph",
+        "title": "Conservation of Nature",
+        "category": "Education",
+        "color_for_category_bg": "#ffc3c5",
+        "color_for_card_bg": "#ffe3e4",
+        "color_for_text_and_button_bg": "#ff444a",
+        "description": "Contribute to the conservation of our planet's natural resources. Your donation supports initiatives focused on reforestation, wildlife protection, and sustainable practices to preserve biodiversity. Our environment is under threat, and your support can make a significant impact in mitigating climate change and protecting fragile ecosystems. Together, we can create a sustainable future for generations to come, where the beauty of nature is preserved and cherished. Join us in the fight against environmental degradation and be a part of the solution for a healthier planet.",
+        "price": 55.00
+    },
+    {
+        "id": 8,
+        "picture": "https://img.freepik.com/free-photo/medium-shot-people-with-food-donations_23-2149182009.jpg?size=626&ext=jpg&uid=R87224536&ga=GA1.1.1825044771.1706894646&semt=ais",
+        "title": "Supporting Mental Health ",
+        "category": "Health",
+        "color_for_category_bg": "#aec8ff",
+        "color_for_card_bg": "#d9e5ff",
+        "color_for_text_and_button_bg": "#0052ff",
+        "description": "Join the cause to support mental health awareness and well-being. Your donation will help fund mental health programs, destigmatize mental health issues, and provide resources for those in need. Mental health is a critical aspect of overall well-being, and your support can make a difference in the lives of individuals facing mental health challenges. Together, we can break down barriers, promote understanding, and create a world where everyone has access to the support they need. Join us in advocating for mental health awareness and fostering a compassionate and supportive community.",
+        "price": 35.00
+    },
+    {
+        "id": 9,
+        "picture": "https://img.freepik.com/free-photo/front-view-smiley-woman-holding-box_23-2150323462.jpg?size=626&ext=jpg&uid=R87224536&ga=GA1.1.1825044771.1706894646&semt=ais",
+        "title": "Disaster Relief",
+        "category": "Food",
+        "color_for_category_bg": "#d4ecc1",
+        "color_for_card_bg": "#ebf6e2",
+        "color_for_text_and_button_bg": "#79c23f",
+        "description": "Support disaster relief efforts to provide immediate assistance to communities affected by natural disasters. Your donation helps us deliver essential supplies, provide shelter, and offer support to those facing emergencies. Disasters can strike at any time, and your contribution ensures a swift and effective response to alleviate suffering and aid in recovery. By standing together, we can provide hope and help rebuild lives in the aftermath of disasters. Join us in providing emergency relief and making a positive impact on the resilience of communities facing adversity.",
+        "price": 40.00
+    },
+    {
+        "id": 10,
+        "picture": "https://img.freepik.com/free-photo/group-people-volunteering-foodbank_23-2149012193.jpg?size=626&ext=jpg&uid=R87224536&ga=GA1.1.1825044771.1706894646&semt=ais",
+        "title": "Heath Skill Development",
+        "category": "Health",
+        "color_for_category_bg": "#aec8ff",
+        "color_for_card_bg": "#d9e5ff",
+        "color_for_text_and_button_bg": "#0052ff",
+        "description": "Empower individuals through skill development programs that provide training and opportunities for sustainable livelihoods. Your donation supports initiatives to equip people with the skills needed for employment and entrepreneurship. By investing in education and training, we can break the cycle of poverty and empower individuals to create a better future for themselves and their communities. Join us in promoting self-reliance and economic independence through skill development. Your contribution can make a lasting impact on the lives of individuals striving for a brighter and more prosperous future.",
+        "price": 50.00
+    },
+    {
+        "id": 11,
+        "picture": "https://img.freepik.com/free-photo/close-up-owners-giving-dog-water_23-2149027336.jpg?size=626&ext=jpg&uid=R87224536&ga=GA1.1.1825044771.1706894646&semt=ais",
+        "title": "Animal Welfare",
+        "category": "Food",
+        "color_for_category_bg": "#d4ecc1",
+        "color_for_card_bg": "#ebf6e2",
+        "color_for_text_and_button_bg": "#79c23f",
+        "description": "Support animal welfare initiatives to ensure the well-being and protection of animals in need. Your donation helps fund rescue operations, medical care, and advocacy efforts to prevent cruelty and promote compassion towards animals. Animals play a crucial role in our ecosystem, and by supporting their welfare, we contribute to a more compassionate and sustainable world. Join us in protecting the voiceless and creating a society where animals are treated with respect and kindness. Your contribution can make a significant difference in the lives of animals facing hardship.",
+        "price": 30.00
+    },
+    {
+        "id": 12,
+        "picture": "https://img.freepik.com/free-photo/shallow-focus-shot-african-child-learning-school_181624-36498.jpg?size=626&ext=jpg&uid=R87224536&ga=GA1.1.1825044771.1706894646&semt=sph",
+        "title": "Supporting Arts & Culture",
+        "category": "Education",
+        "color_for_category_bg": "#ffe3e4",
+        "color_for_card_bg": "#ebf6e2",
+        "color_for_text_and_button_bg": "#ff444a",
+        "description": "Promote and preserve arts and culture with your donation. Your support helps fund cultural events, art exhibitions, and initiatives that celebrate diversity and creativity. Arts and culture are essential components of a thriving society, fostering understanding, creativity, and unity. By contributing to this cause, you play a vital role in preserving and promoting the richness of our cultural heritage. Join us in supporting the arts and culture, ensuring that future generations can enjoy and benefit from the diverse expressions of human creativity. Your donation makes a difference in shaping a vibrant and culturally enriched world.",
+        "price": 35.00
+    }
+]
